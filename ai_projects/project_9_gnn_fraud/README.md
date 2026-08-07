@@ -1,0 +1,1 @@
+# project_9_gnn_fraud\n\nFraud Detection with Graph Neural Networks (Predictive Modeling)\n\n## Run\n`python main.py`

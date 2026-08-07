@@ -1,0 +1,1 @@
+# project_1_llm_lora\n\nLLM Fine-Tuning with LoRA (Generative AI / NLP)\n\n## Run\n`python main.py`

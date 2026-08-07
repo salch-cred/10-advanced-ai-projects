@@ -1,0 +1,1 @@
+# project_10_cross_lingual\n\nCross-Lingual Zero-Shot Sentiment Classifier (NLP)\n\n## Run\n`python main.py`

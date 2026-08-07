@@ -1,0 +1,1 @@
+# project_2_yolo_custom\n\nCustom Object Detection & Segmentation (Computer Vision)\n\n## Run\n`python main.py`

@@ -1,0 +1,1 @@
+# project_7_rag_system\n\nEnterprise RAG System with Vector DB (NLP)\n\n## Run\n`python main.py`

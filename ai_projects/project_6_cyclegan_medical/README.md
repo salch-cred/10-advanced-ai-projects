@@ -1,0 +1,1 @@
+# project_6_cyclegan_medical\n\nMedical Image Translation via CycleGAN (Computer Vision / GenAI)\n\n## Run\n`python main.py`

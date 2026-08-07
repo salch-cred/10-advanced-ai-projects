@@ -1,0 +1,1 @@
+# project_8_video_vit\n\nVideo Action Recognition with Vision Transformers (Computer Vision)\n\n## Run\n`python main.py`
